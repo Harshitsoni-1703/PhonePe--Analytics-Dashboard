@@ -13,7 +13,7 @@ An interactive and comprehensive **Power BI Dashboard** analyzing transaction tr
 
 | Dashboard Main View | Power BI Desktop Modeling & DAX |
 | :---: | :---: |
-| (![Dashboard View](./image.png)) | (./Screenshot%202026-07-31%20040518.png) |
+| (![Dashboard View](./image.png)) | (![Data Modeling information](./Screenshot%202026-07-31%20040518.png) |
 
 ---
 
