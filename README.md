@@ -13,7 +13,7 @@ An interactive and comprehensive **Power BI Dashboard** analyzing transaction tr
 
 | Dashboard Main View | Power BI Desktop Modeling & DAX |
 | :---: | :---: |
-| ![PhonePe Dashboard View](https://via.placeholder.com/800x450?text=PhonePe+Dashboard+Main+View) | ![Power BI Modeling View](https://via.placeholder.com/800x450?text=Power+BI+Desktop+Data+Model) |
+| ![PhonePe Dashboard View](![Dashboard View](./image.png)) | ![Power BI Modeling View](https://via.placeholder.com/800x450?text=Power+BI+Desktop+Data+Model) |
 
 ---
 
